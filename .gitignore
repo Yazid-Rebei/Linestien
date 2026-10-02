@@ -1,0 +1,14 @@
+# Ignorer tous les fichiers PDF
+*.pdf
+
+# Ignorer tous les fichiers Markdown
+*.md
+
+# Conserver uniquement le README principal
+!README.md
+
+# Fichiers et dossiers système / temporaires
+.DS_Store
+Thumbs.db
+*.swp
+*~
